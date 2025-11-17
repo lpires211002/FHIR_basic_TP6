@@ -3,8 +3,8 @@ from base import send_resource_to_hapi_fhir
 practitioner = {
     "resourceType": "Practitioner",
     "name": [{
-        "family": "Pires",
-        "given": ["Tobias"]
+        "family": "Brogovsky",
+        "given": ["Duketo"]
     }]
 }
 
