@@ -8,7 +8,7 @@ if __name__ == "__main__":
     subject_id = "52704718"   # ID del paciente ya creado
     category_text = "Primary Care"
 
-#52740885
+
     participants = [
         {
             "role": "Médico tratante",
